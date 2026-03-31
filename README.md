@@ -20,7 +20,7 @@ Full-Stack Developer con más de 10 años de experiencia en infraestructura tecn
 
 **Track record demostrado:**
 - 📈 **SEO:** 500k → 1.2M+ visitas/mes (+140%)
-- 🖥️ **Infra:** 0 → 6 servidores + 300 usuarios
+- 🖥️ **Infra:** 0 → 12 servidores +300 usuarios
 - 🌐 **Web:** 0 → 54k visitas/mes desde cero
 - ⚡️ **Automation:** 10-20 horas/semana ahorradas por cliente
 
@@ -62,8 +62,6 @@ Full-Stack Developer con más de 10 años de experiencia en infraestructura tecn
 ### Languages
 ![Spanish](https://img.shields.io/badge/Spanish-E34F26?style=for-the-badge&logo=spanish&logoColor=white)
 ![English](https://img.shields.io/badge/English-4285F4?style=for-the-badge&logo=english&logoColor=white)
-![German](https://img.shields.io/badge/German-FFC300?style=for-the-badge&logo=german&logoColor=black)
-![Italian](https://img.shields.io/badge/Italian-008080?style=for-the-badge&logo=italian&logoColor=white)
 
 ---
 
@@ -133,6 +131,8 @@ Sitios web con optimización SEO
 
 **Tecnologías:** SEO, CDN, Cache, Optimización de imágenes
 
+
+[![Mas proyectos](https://img.shields.io/badge/Mas-Proyectos-000000?style=for-the-badge&logo=github&logoColor=white)](https://cperdomo.hezeer.com/#portfolio)
 ---
 
 ## 🎯 Key Achievements
