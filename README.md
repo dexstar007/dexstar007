@@ -22,7 +22,7 @@ Full-Stack Developer con más de 10 años de experiencia en infraestructura tecn
 - 📈 **SEO:** 500k → 1.2M+ visitas/mes (+140%)
 - 🖥️ **Infra:** 0 → 6 servidores + 300 usuarios
 - 🌐 **Web:** 0 → 54k visitas/mes desde cero
-- ⚡ **Automation:** 10-20 horas/semana ahorradas por cliente
+- ⚡️ **Automation:** 10-20 horas/semana ahorradas por cliente
 
 ---
 
@@ -69,6 +69,39 @@ Full-Stack Developer con más de 10 años de experiencia en infraestructura tecn
 
 ## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dexstar007&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dexstar007&theme=dark&hide_border=true&layout=compact)
+
+---
+
+## 📂 Featured Projects
+
+### 🧠 Hezeer-Flow
+
+**Personal Knowledge Management (PKM) application with AI-powered assistance and interactive knowledge graph visualization**
+
+![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Features:**
+- ✅ AI-powered assistant with streaming & RAG mode
+- ✅ Interactive knowledge graph visualization (force-directed)
+- ✅ Wikilinks for bidirectional linking
+- ✅ i18n support (ES/EN)
+- ✅ IndexedDB for local persistence
+- ✅ Real-time graph updates
+- ✅ Markdown editor with live preview
+- ✅ Full-text search with smart filtering
+
+**Tech Stack:** Next.js 16, React 19, TypeScript 5, Tailwind CSS 4, shadcn/ui, Zustand, IndexedDB, GLM-4 API
+
+[![View Project](https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dexstar007/Hezeer-Flow)
+
+---
+
+### 🔧 Automation Systems (n8n)
 Workflows automatizados para optimizar procesos empresariales
 
 - Auto-posting system para redes sociales
@@ -116,8 +149,9 @@ Sitios web con optimización SEO
 | 📈 SEO Growth | +140% tráfico (500k → 1.2M+ visitas/mes) |
 | 🖥️ Infrastructure Scale | 0 → 6 servidores + 300 usuarios |
 | 🌐 Web from Scratch | 0 → 54k visitas/mes para empresa local |
-| ⚡ Automation Savings | 10-20 horas/semana por cliente |
+| ⚡️ Automation Savings | 10-20 horas/semana por cliente |
 | 🔄 Site Consolidation | 2 sitios → 1 plataforma eficiente |
+| 🧠 AI-Powered PKM | Hezeer-Flow con knowledge graph & RAG |
 
 ---
 
@@ -152,6 +186,7 @@ Sitios web con optimización SEO
 - 🔨 Desarrollo de CRM personalizado con automatizaciones específicas
 - 🔄 Workflows de n8n para integraciones empresariales
 - 🤖 Sistemas de AI integration para automatización de procesos
+- 🧠 Hezeer-Flow — Personal Knowledge Management con knowledge graph y RAG
 
 ---
 
