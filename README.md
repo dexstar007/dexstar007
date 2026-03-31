@@ -166,7 +166,7 @@ Sitios web con optimización SEO
 
 ## 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-cperdomo007@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cperdomo007@gmail.com)
+[![Email](https://img.shields.io/badge/Email-cperdomo@hezeer.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cperdomo@hezeer.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian%20Perdomo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristianperdomo-hn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-cperdomo.hezeer.com-000000?style=for-the-badge&logo=web&logoColor=white)](https://cperdomo.hezeer.com)
 [![GitHub](https://img.shields.io/badge/Github-dexstar007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dexstar007)
